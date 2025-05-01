@@ -35,36 +35,25 @@ A curated list of libraries that implement technical analysis (TA) indicators fo
 ## Python
 
 - **[TA-Lib (Python wrapper)](https://github.com/mrjbq7/ta-lib)**  
-  Official wrapper for TA-Lib, 150+ indicators.  
-  [1]
-
-- **[pandas-ta](https://github.com/twopirllc/pandas-ta)**  
-  130+ indicators, seamless integration with Pandas DataFrames.  
-  [2][6]
+  Official wrapper for TA-Lib, 150+ indicators.
 
 - **[ta](https://github.com/bukosabino/ta)**  
-  Technical analysis library using Pandas, easy to use and extend.  
-  [4][6]
+  Technical analysis library using Pandas, easy to use and extend.
 
 - **[finta](https://github.com/peerchemist/finta)**  
-  Common financial technical analysis indicators implemented in Pandas.  
-  [3]
+  Common financial technical analysis indicators implemented in Pandas.
 
 - **[Tulipy](https://github.com/cirla/tulipy)**  
-  Python bindings for Tulip Indicators (C library).  
-  [3]
+  Python bindings for Tulip Indicators (C library).
 
 - **[talipp](https://github.com/Enivid/talipp)**  
-  Incremental technical analysis library for Python.  
-  [3]
+  Incremental technical analysis library for Python.
 
 - **[streaming_indicators](https://github.com/je-suis-tm/streaming_indicators)**  
-  Streaming TA indicators for real-time data.  
-  [3]
+  Streaming TA indicators for real-time data.
 
 - **[trading-technical-indicators (tti)](https://github.com/vsaveris/trading-technical-indicators)**  
-  60+ indicators, signals, and charting.  
-  [7]
+  60+ indicators, signals, and charting.
 
 ---
 
