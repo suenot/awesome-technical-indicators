@@ -30,9 +30,6 @@ A curated list of libraries that implement technical analysis (TA) indicators fo
 - **[ta-rs](https://github.com/greyblake/ta-rs)**  
   Idiomatic Rust implementation: EMA, SMA, RSI, Stochastic, Bollinger Bands, etc.
 
-- **[RustTI](https://github.com/greyblake/rust-ti)**  
-  Extensible library with configurable indicator parameters.
-
 ---
 
 ## Python
