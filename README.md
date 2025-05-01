@@ -13,9 +13,6 @@ A curated list of libraries that implement technical analysis (TA) indicators fo
 - **[Tulip Indicators](https://github.com/TulipCharts/tulipindicators)**  
   104 indicators, ANSI C, high performance, LGPL.
 
-- **[fast-ta-lib](https://github.com/insightplatform/fast-ta-lib)**  
-  Modern C++ library focused on performance and no external dependencies.
-
 ---
 
 ## Go
